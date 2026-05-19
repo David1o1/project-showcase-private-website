@@ -15,6 +15,7 @@ The application is part of a team-based development project and is primarily bui
 My main contributions include:
 - Adding multilingual support (Norwegian ↔ English)
 - Migrating data submission from Google Forms to a database using Prisma
+- Website maintenance and updates, including calendar and content improvements
 
 ---
 
