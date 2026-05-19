@@ -32,7 +32,7 @@ This change improved control over data flow and removed dependency on external f
 
 ## 🌐 Language Switching (Norwegian ↔ English)
 
-I implemented a language switching feature that allows users to toggle between Norwegian and English using a button in the navigation menu.
+We implemented a language switching feature that allows users to toggle between Norwegian and English using a button in the navigation menu.
 
 ### What I built
 - Dynamic UI text switching
