@@ -82,9 +82,13 @@ Frontend → API → Prisma → Database
 
 # 📸 Screenshots / Visuals
 
-- Language toggle in action:<img width="717" height="400" alt="Kapture 2026-05-19 at 17 44 58" src="https://github.com/user-attachments/assets/f3a0badf-8631-41db-8c64-16bdcfaafd3a" />
+- Language toggle in action:
 
-- Form submission flow (optional): <img width="946" height="528" alt="Kapture 2026-05-19 at 17 48 32" src="https://github.com/user-attachments/assets/3692c6bc-b4ba-40ba-b072-732533704963" />
+  <img width="717" height="400" alt="Kapture 2026-05-19 at 17 44 58" src="https://github.com/user-attachments/assets/f3a0badf-8631-41db-8c64-16bdcfaafd3a" />
+
+- Form submission flow (optional):
+
+<img width="946" height="528" alt="Kapture 2026-05-19 at 17 48 32" src="https://github.com/user-attachments/assets/3692c6bc-b4ba-40ba-b072-732533704963" />
 
 
 - UI overview
