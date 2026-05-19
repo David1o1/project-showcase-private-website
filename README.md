@@ -53,7 +53,7 @@ I replaced an external Google Forms-based data collection flow with a backend-dr
 ### Before
 Frontend → Google Forms (external storage)
 
-<img width="454" height="612" alt="Skjermbilde 2026-05-20 kl  01 00 03" src="https://github.com/user-attachments/assets/a899d6ed-fac7-4971-be42-509cd79b3568" />
+<img width="303" height="408" alt="Skjermbilde 2026-05-20 kl  01 00 03" src="https://github.com/user-attachments/assets/a899d6ed-fac7-4971-be42-509cd79b3568" />
 
 
 ### After
