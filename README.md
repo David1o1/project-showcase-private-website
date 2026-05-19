@@ -63,6 +63,9 @@ Frontend → API → Prisma → Database
 
 <img width="408" height="368" alt="Skjermbilde 2026-05-20 kl  01 10 38" src="https://github.com/user-attachments/assets/2a490949-4b27-41e1-a5da-77c878e46f79" />
 
+<img width="355" height="326" alt="Skjermbilde 2026-05-20 kl  01 12 56" src="https://github.com/user-attachments/assets/3bd77884-4d17-4419-a632-8996d4c6658e" />
+
+
 
 ### What I built
 - Backend API endpoint for form submissions
