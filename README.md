@@ -59,7 +59,7 @@ Frontend → Google Forms (external storage)
 ### After
 Frontend → API → Prisma → Database
 
-<img width="330" height="331" alt="Skjermbilde 2026-05-20 kl  00 58 52" src="https://github.com/user-attachments/assets/3594508f-ee64-4ffa-8f40-0b8ea00409fe" />
+<img width="440" height="441" alt="Skjermbilde 2026-05-20 kl  00 58 52" src="https://github.com/user-attachments/assets/3594508f-ee64-4ffa-8f40-0b8ea00409fe" />
 
 ### What I built
 - Backend API endpoint for form submissions
