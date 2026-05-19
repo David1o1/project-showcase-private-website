@@ -56,7 +56,7 @@ Frontend → Google Forms (external storage)
 <img width="303" height="408" alt="Skjermbilde 2026-05-20 kl  01 00 03" src="https://github.com/user-attachments/assets/a899d6ed-fac7-4971-be42-509cd79b3568" />
 
 
-#### After
+### After
 Frontend → API → Prisma → Database
 
 #### Frontend-layer
