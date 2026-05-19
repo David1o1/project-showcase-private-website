@@ -1,2 +1,110 @@
-# project-showcase-private-website
-The website we are in: https://www.shalomoslo.com/
+
+# Project Showcase
+
+This repository highlights selected contributions I made to a private full-stack website.  
+The focus is on explaining features and technical decisions without exposing proprietary source code.
+
+---
+
+# 🌍 Overview
+
+This project is a full-stack web application where I worked on both frontend and backend improvements, with a focus on usability, data handling, and maintainability.
+
+The application is part of a team-based development project and is primarily built using TypeScript.
+
+My main contributions include:
+- Adding multilingual support (Norwegian ↔ English)
+- Migrating data submission from Google Forms to a database using Prisma
+
+---
+
+# 🧱 Architecture
+
+Simple overview of the system after improvements:
+
+Frontend → API → Prisma ORM → Database
+
+This change improved control over data flow and removed dependency on external form services.
+
+---
+
+# 🧩 My Contributions
+
+## 🌐 Language Switching (Norwegian ↔ English)
+
+I implemented a language switching feature that allows users to toggle between Norwegian and English using a button in the navigation menu.
+
+### What I built
+- Dynamic UI text switching
+- Persistent language selection across sessions
+- Centralized translation structure for maintainability
+
+### Impact
+- Improved accessibility for multiple user groups
+- Improved user experience for international users
+- Created a scalable foundation for supporting additional languages
+
+---
+
+## 🗄️ Data Migration: Google Forms → Database (Prisma)
+
+I replaced an external Google Forms-based data collection flow with a backend-driven database solution using Prisma.
+
+### Before
+Frontend → Google Forms (external storage)
+
+### After
+Frontend → API → Prisma → Database
+
+### What I built
+- Backend API endpoint for form submissions
+- Input validation and error handling
+- Integration between frontend and database layer
+
+### Improvements
+- Full ownership of data storage and structure
+- Easier querying and future data usage
+- More scalable and secure architecture
+- Removed dependency on external third-party tools
+
+---
+
+# 🛠️ Tech Stack
+
+- TypeScript
+- React / Next.js
+- Prisma ORM
+- PostgreSQL (or SQL database)
+- REST API
+- Git & GitHub
+
+---
+
+# 📸 Screenshots / Visuals
+
+- Language toggle in action:<img width="717" height="400" alt="Kapture 2026-05-19 at 17 44 58" src="https://github.com/user-attachments/assets/f3a0badf-8631-41db-8c64-16bdcfaafd3a" />
+
+- Form submission flow (optional): <img width="946" height="528" alt="Kapture 2026-05-19 at 17 48 32" src="https://github.com/user-attachments/assets/3692c6bc-b4ba-40ba-b072-732533704963" />
+
+
+- UI overview
+
+---
+
+# 🧠 What I Learned
+
+- Building multilingual front-end applications
+- Managing UI state for dynamic language switching
+- Designing database schemas with Prisma
+- Migrating from third-party services to backend-controlled systems
+- Structuring full-stack applications with clear separation of concerns
+
+---
+
+# 🚧 Notes
+
+This repository is a showcase of selected engineering work from a private project.  
+Sensitive implementation details are intentionally excluded.
+
+---
+
