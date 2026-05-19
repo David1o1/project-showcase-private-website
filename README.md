@@ -105,8 +105,6 @@ Frontend → API → Prisma → Database
 <img width="946" height="528" alt="Kapture 2026-05-19 at 17 48 32" src="https://github.com/user-attachments/assets/3692c6bc-b4ba-40ba-b072-732533704963" />
 
 
-- UI overview
-
 ---
 
 # 🧠 What I Learned
@@ -121,7 +119,7 @@ Frontend → API → Prisma → Database
 
 # 🚧 Notes
 
-This repository is a showcase of selected engineering work from a private project.  
+This repository is a showcase of selected programming work from a private project.  
 Sensitive implementation details are intentionally excluded.
 
 ---
