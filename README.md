@@ -84,6 +84,9 @@ Frontend → API → Prisma → Database
 
 ---
 
+## 🤖 Honeypot
+Added honeypot protection to the registration forms. A hidden field was added that normal users never see or fill out. When a form is submitted, the server checks this field before saving anything to the database. If a bot automatically fills in the hidden field, the submission is rejected.
+
 # 🛠️ Tech Stack
 
 - TypeScript
