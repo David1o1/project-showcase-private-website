@@ -104,7 +104,7 @@ Added bot protection to the registration forms.
 - Created reusable components and helper functions to reduce code duplication
 ---
 
-# 📸 Screenshots / Visuals
+# 📸 Visuals
 
 - Language toggle in action:
 
