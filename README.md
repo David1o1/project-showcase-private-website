@@ -85,7 +85,7 @@ Frontend → API → Prisma → Database
 ---
 
 ## 3. 🤖 Honeypot
-Added honeypot protection to the registration forms. 
+Added bot protection to the registration forms. 
 
 #### Honeypotfield file:
 <img width="518" height="273" alt="Skjermbilde 2026-06-05 kl  15 09 59" src="https://github.com/user-attachments/assets/39c20f33-63f4-47e5-a6a1-4200b958e519" />
