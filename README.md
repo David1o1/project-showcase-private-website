@@ -85,14 +85,20 @@ Frontend → API → Prisma → Database
 ---
 
 ## 🤖 Honeypot
-Added honeypot protection to the registration forms. A hidden field was added that normal users never see or fill out. When a form is submitted, the server checks this field before saving anything to the database. If a bot automatically fills in the hidden field, the submission is rejected.
+Added honeypot protection to the registration forms. 
 
-#### Honeypotfield file
+#### Honeypotfield file:
 <img width="518" height="273" alt="Skjermbilde 2026-06-05 kl  15 09 59" src="https://github.com/user-attachments/assets/39c20f33-63f4-47e5-a6a1-4200b958e519" />
 
-#### Server helper
+#### Server helper:
 <img width="528" height="63" alt="Skjermbilde 2026-06-05 kl  15 13 26" src="https://github.com/user-attachments/assets/c594d8c1-acbc-448a-9081-2910ad4bdaf3" />
 
+
+### What I built
+- Built and integrated a reusable honeypot component to improve spam protection on registration forms
+- Added bot-detection fields to registration forms
+- Implemented server-side validation to verify submissions before processing user data
+- Created reusable components and helper functions to reduce code duplication
 ---
 
 # 📸 Screenshots / Visuals
