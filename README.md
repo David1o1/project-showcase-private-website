@@ -120,7 +120,8 @@ Added honeypot protection to the registration forms.
 - Managing UI state for dynamic language switching
 - Designing database schemas with Prisma
 - Migrating from third-party services to backend-controlled systems
-- Structuring full-stack applications with clear separation of concerns
+- Learned how to implement honeypot spam protection using hidden form fields and server-side validation
+- Gained experience building reusable React components and integrating frontend and backend validation logic
 
 ---
 
