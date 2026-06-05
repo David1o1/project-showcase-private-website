@@ -23,9 +23,12 @@ My main contributions include:
 
 Simple overview of the system after improvements:
 
-Frontend → API → Prisma ORM → Database
+1. International users can now read the important info on the website in english
+   
+2.Frontend → API → Prisma ORM → Database
+  - This change improved control over data flow and removed dependency on external form services.
 
-This change improved control over data flow and removed dependency on external form services.
+3. ---LOADING---
 
 ---
 
