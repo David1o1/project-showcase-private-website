@@ -31,7 +31,7 @@ This change improved control over data flow and removed dependency on external f
 
 # 🧩 My Contributions
 
-## 🌐 Language Switching (Norwegian ↔ English)
+## 1. 🌐 Language Switching (Norwegian ↔ English)
 
 We implemented a language switching feature that allows users to toggle between Norwegian and English using a button in the navigation menu.
 
@@ -47,7 +47,7 @@ We implemented a language switching feature that allows users to toggle between 
 
 ---
 
-## 🗄️ Data Migration: Google Forms → Database (Prisma)
+## 2. 🗄️ Data Migration: Google Forms → Database (Prisma)
 
 I replaced an external Google Forms-based data collection flow with a backend-driven database solution using Prisma.
 
@@ -84,7 +84,7 @@ Frontend → API → Prisma → Database
 
 ---
 
-## 🤖 Honeypot
+## 3. 🤖 Honeypot
 Added honeypot protection to the registration forms. 
 
 #### Honeypotfield file:
